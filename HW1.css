@@ -81,6 +81,7 @@ p {
   color: white
 }
 
+/* HEARTBEAT CSS Code */
 .heart {
   animation: beat .25s infinite alternate;
   transform-origin: center;
@@ -91,3 +92,27 @@ p {
 @keyframes beat {
   to {transform: scale(1.4); }
 }
+
+/* HEARTBEAT ENDS */
+
+.LuffyInfo {
+  /* float: left; */
+  border-style: solid;
+  border-color: aqua;
+  width: 75%;
+  height: 50px;
+}
+
+.img{
+  float: right;
+}
+
+/* .LuffyPics { 
+  float: right;
+  border-style: solid;
+  border-color: red;
+  width: 50%;
+  height: 50px;
+
+}
+*/
