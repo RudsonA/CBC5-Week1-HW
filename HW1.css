@@ -71,3 +71,23 @@ li {
     text-align: right;
     
 }
+
+.luffypng {
+  border: 2rem;
+  border-radius: 25px;
+}
+
+p {
+  color: white
+}
+
+.heart {
+  animation: beat .25s infinite alternate;
+  transform-origin: center;
+  height: 50px;
+  width: 50px;
+}
+
+@keyframes beat {
+  to {transform: scale(1.4); }
+}
