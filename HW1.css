@@ -115,11 +115,6 @@ p {
   width: 40%; 
 }
 
-.gomugomu {
-  float: right;
-  width: 40%
-  height: 50px;
-}
 
 
 .LuffyMainInfo {
@@ -132,3 +127,5 @@ h3 {
   color: aqua;
   font-size: 50px;
 }
+
+
