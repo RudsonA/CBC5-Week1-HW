@@ -96,16 +96,13 @@ p {
 /* HEARTBEAT ENDS */
 
 .LuffyInfo {
-  /* float: left; */
+  float: left;
   border-style: solid;
   border-color: aqua;
   width: 75%;
   height: 50px;
 }
 
-.img{
-  float: right;
-}
 .appearanceHeader {
   float: right;
 }
@@ -118,18 +115,20 @@ p {
   width: 40%; 
 }
 
-/* .LuffyPics { 
+.gomugomu {
   float: right;
-  border-style: solid;
-  border-color: red;
-  width: 50%;
+  width: 40%
   height: 50px;
-
 }
-*/
+
 
 .LuffyMainInfo {
   
   box-shadow: 10px 10px 10px red;
   width: 100%;
+}
+
+h3 {
+  color: aqua;
+  font-size: 50px;
 }
