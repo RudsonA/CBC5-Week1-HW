@@ -100,7 +100,6 @@ p {
   border-style: solid;
   border-color: aqua;
   width: 75%;
-  height: 50px;
 }
 
 .appearanceHeader {
@@ -118,8 +117,7 @@ p {
 
 
 .LuffyMainInfo {
-  
-  box-shadow: 10px 10px 10px red;
+  border: 15px aquamarine;
   width: 100%;
 }
 
