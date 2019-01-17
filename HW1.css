@@ -114,7 +114,9 @@ p {
   width: 40%; 
 }
 
-
+iframe {
+  float: right;
+}
 
 .LuffyMainInfo {
   border: 15px aquamarine;
